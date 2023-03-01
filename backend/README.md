@@ -3,7 +3,7 @@
 * Install [Docker Compose (v2.10+)](https://docs.docker.com/compose/install/)
 
 # Install the project for the first time
-1. Go in the project folder `coding-assesment-nodejs`
+1. Go in the project folder `coding-assessment-nodejs`
 2. Run `cd backend && npm install`
 3. Run `docker-compose build`
 
