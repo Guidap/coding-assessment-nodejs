@@ -10,6 +10,6 @@ RUN npm install
 # copy sources
 COPY . .
 
-EXPOSE 8080
+EXPOSE 8000
 EXPOSE 9229
 CMD ["node", "src/server.js"]
